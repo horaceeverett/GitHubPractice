@@ -1,0 +1,53 @@
+body {
+    background-color: #fbf9f9;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+div {
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+    flex: 1 1 45%; 
+}
+
+.type1 {
+    border-color: red;
+}
+
+.type2 {
+    border-color: green;
+}
+
+.type3 {
+    border-color: blue;
+}
+
+.type4 {
+    border-color: orange;
+}
+
+.type5 {
+    border-color: purple;
+}
+
+.type6 {
+    border-color: yellow;
+}
+
+.type7 {
+    border-color: pink;
+}
+
+.type8 {
+    border-color: brown;
+}
+
+.type9 {
+    border-color: cyan;
+}
+
+.type10{
+    border-color: magenta;
+}
+ 
